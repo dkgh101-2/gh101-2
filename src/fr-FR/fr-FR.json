@@ -1,5 +1,10 @@
 {
-  "string1" : "il s'agit de la chaîne 1",
-  "string2" : "il s'agit de la chaîne 2",
-  "string3" : "il s'agit de la chaîne 3"
+  "smartling" : {
+    "icu_apos_escape_before_tags" : "true",
+    "string_format" : "icu"
+  },
+  "string1" : "il va <gonna> pleuvoir''</gonna>",
+  "string2" : "ce 'sera la chaîne 2",
+  "string3" : "c'est bien l''<tag> yep </tag>",
+  "string4" : "ce n'est pas correct l''<tag> ce n'est pas bien </tag>"
 }

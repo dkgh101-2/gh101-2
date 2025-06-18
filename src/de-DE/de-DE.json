@@ -1,5 +1,10 @@
 {
-  "string1" : "Das ist String 1",
-  "string2" : "Das ist String 2",
-  "string3" : "Das ist String 3"
+  "smartling" : {
+    "icu_apos_escape_before_tags" : "true",
+    "string_format" : "icu"
+  },
+  "string1" : "Es wird <gonna> regnen''</gonna>",
+  "string2" : "Dies wird Zeichenfolge 2 sein",
+  "string3" : "Das ist in Ordnung, l''<tag> ja </tag>.",
+  "string4" : "Das ist nicht in Ordnung, l''<tag> es ist nicht' </tag>in Ordnung"
 }
