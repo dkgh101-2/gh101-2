@@ -1,4 +1,7 @@
 {
+  "smartling" : {
+    "icu_apos_escape_before_tags" : "true"
+  },
   "string1" : "il s'agit de la chaîne 1",
   "string2" : "il s'agit de la chaîne 2",
   "string3" : "il s'agit de la chaîne 3"
