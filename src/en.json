@@ -1,7 +1,7 @@
 {
   "smartling": {
     "icu_apos_escape_before_tags" : "true"
-  }
+  },
 
   "string1" : "this is string 1",
   "string2" : "this is string 2",
