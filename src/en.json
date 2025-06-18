@@ -1,9 +1,11 @@
 {
   "smartling": {
-    "icu_apos_escape_before_tags" : "true"
+    "icu_apos_escape_before_tags" : "true",
+    "string_format" : "icu"
   },
 
-  "string1" : "this is string 1",
-  "string2" : "this is string 2",
-  "string3" : "this is string 3 - force pr "
+  "string1" : "it's <gonna> rain'</gonna>",
+  "string2" : "this'll be string 2",
+  "string3" : "this is fine l'<tag> yep </tag>",
+  "string4" : "this ain't fine l'<tag> it's not ok </tag>"
 }
