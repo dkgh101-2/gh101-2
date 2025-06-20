@@ -1,5 +1,8 @@
 {
+  "smartling" : {
+    "icu_apos_escape_before_tags" : "true"
+  },
   "string1" : "Das ist String 1",
   "string2" : "Das ist String 2",
-  "string3" : "Das ist String 3"
+  "string3" : "this is string 3 - force pr "
 }
